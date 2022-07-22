@@ -1,0 +1,22 @@
+{
+  "name": "studentmanagementsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilip2304/Finalsample-repo.git"
+  },
+  "author": "Dilip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dilip2304/Finalsample-repo/issues"
+  },
+  "homepage": "https://github.com/Dilip2304/Finalsample-repo#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
